@@ -1,0 +1,15 @@
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\LopushokDemo.exe.config
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\LopushokDemo.exe
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\LopushokDemo.pdb
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.AssemblyReference.cache
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\MainWindow.g.cs
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\App.g.cs
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo_MarkupCompile.cache
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo_MarkupCompile.lref
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\MainWindow.baml
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.g.resources
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.Properties.Resources.resources
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.GenerateResource.cache
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.CoreCompileInputs.cache
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.exe
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.pdb
