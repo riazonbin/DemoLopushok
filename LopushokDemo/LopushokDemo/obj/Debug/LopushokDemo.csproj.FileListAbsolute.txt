@@ -22,3 +22,5 @@ D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo_Content.g.cs
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\App.baml
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\Pages\ProductsListPage.baml
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.CopyComplete
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\Windows\ProductDataWindow.g.cs
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\Windows\ProductDataWindow.baml
