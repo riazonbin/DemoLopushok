@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LopushokDemo", "LopushokDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalLib", "WSUniversalLib\WSUniversalLib.csproj", "{9DD1BC36-85FD-4F63-8FB5-7031F8FF44DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSUniversalTest", "WSUniversalTest\WSUniversalTest.csproj", "{66AEE609-32E4-48E3-9F45-944F588159E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9DD1BC36-85FD-4F63-8FB5-7031F8FF44DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DD1BC36-85FD-4F63-8FB5-7031F8FF44DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DD1BC36-85FD-4F63-8FB5-7031F8FF44DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AEE609-32E4-48E3-9F45-944F588159E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AEE609-32E4-48E3-9F45-944F588159E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AEE609-32E4-48E3-9F45-944F588159E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AEE609-32E4-48E3-9F45-944F588159E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

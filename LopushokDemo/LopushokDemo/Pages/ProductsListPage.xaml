@@ -74,7 +74,7 @@
             </ListView>
             <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
                 <Button Click="PrevPageButton_Click" Content="←" Background="Transparent" BorderBrush="Transparent"/>
-                <ListBox x:Name="PagesListBox" d:ItemsSource="{d:SampleData ItemCount=5}">
+                <ListBox SelectionChanged="PagesListBox_SelectionChanged" x:Name="PagesListBox" d:ItemsSource="{d:SampleData ItemCount=5}">
                     <ListBox.ItemsPanel>
                         <ItemsPanelTemplate>
                             <WrapPanel/>
