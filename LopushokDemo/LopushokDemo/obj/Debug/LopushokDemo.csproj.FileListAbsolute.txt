@@ -13,3 +13,12 @@ D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.GenerateR
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.CoreCompileInputs.cache
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.exe
 D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.pdb
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\EntityFramework.dll
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\EntityFramework.xml
+D:\C# Projects\LopushokDemo\LopushokDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\Pages\ProductsListPage.g.cs
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo_Content.g.cs
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\App.baml
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\Pages\ProductsListPage.baml
+D:\C# Projects\LopushokDemo\LopushokDemo\obj\Debug\LopushokDemo.csproj.CopyComplete
